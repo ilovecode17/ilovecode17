@@ -8,14 +8,11 @@ I create projects based on whatever comes to mind and share them on GitHub.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello+World.)](https://git.io/typing-svg)
 
----
-
 ## About Me
 
 - I love experimenting with new ideas and turning them into code.  
 - Currently learning nothing in particular (but I do work with React and Python).  
 - Goal: Build projects that are fun, useful, or just plain weird.  
-- Fueled by curiosity (and probably too much coffee).
 
 ---
 
