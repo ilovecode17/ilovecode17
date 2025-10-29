@@ -8,7 +8,7 @@ i make whatever comes to mind and post in GitHub
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello+World.)](https://git.io/typing-svg)
 
---- BELOW THE RANDOM STATS ---
+--- GitHub in numbers ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
