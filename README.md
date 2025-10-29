@@ -6,7 +6,7 @@ I create projects based on whatever comes to mind and share them on GitHub.
   You can contact me at ilovecode17@hotmail.com
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70101&width=1000&lines=Hello+World.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello+World.)](https://git.io/typing-svg)
 
 ---
 
