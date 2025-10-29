@@ -1,6 +1,6 @@
 <h1 align="left">Hiiiiii</h1>
 
-i make whatever comes to mind and post in GitHub 
+I create projects based on whatever comes to mind and share them on GitHub. 
 
 <h3 align="left">
   You can contact me at ilovecode17@hotmail.com
