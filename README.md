@@ -12,6 +12,6 @@ i make whatever comes to mind and post in GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-![face-hh](https://github-readme-stats.vercel.app/api?username=ilovecode17 &show_icons=true&theme=tokyonight&hide=["issues"])
+![ilovecode17](https://github-readme-stats.vercel.app/api?username=ilovecode17 &show_icons=true&theme=tokyonight&hide=["issues"])
 
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=ilovecode17 &show_icons=true&theme=tokyonight&layout=compact)
+![ilovecode17](https://github-readme-stats.vercel.app/api/top-langs?username=ilovecode17 &show_icons=true&theme=tokyonight&layout=compact)
