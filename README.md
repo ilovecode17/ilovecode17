@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">Hiiiiii</h1>
 
-<!--
-**ilovecode17/ilovecode17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i make whatever comes to mind and post in GitHub 
 
-Here are some ideas to get you started:
+<h3 align="left">
+  You can contact me at ilovecode17@hotmail.com
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
+--- BELOW THE RANDOM STATS ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+![face-hh](https://github-readme-stats.vercel.app/api?username=ilovecode17 &show_icons=true&theme=tokyonight&hide=["issues"])
+
+![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=ilovecode17 &show_icons=true&theme=tokyonight&layout=compact)
