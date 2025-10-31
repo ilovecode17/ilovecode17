@@ -22,7 +22,7 @@ I create projects based on whatever comes to mind and share them on GitHub.
 |----------|--------------|-----------|
 | [**IndentScript**](https://github.com/ilovecode17/IndentScript) | A powerful JavaScript superset that combines Python's elegant syntax with JavaScript's ecosystem (Node.js). | Node.js |
 | [**Spruce**](https://github.com/ilovecode17/Spruce) | A web app that lets users explore the history of music from 2100 BC to 2020 AD, with YouTube, Wikipedia, Spotify, and lyrics integration. | Client-side (JavaScript, HTML, CSS) |
-| [**Git Cloth**](https://github.com/ilovecode17/GitCloth) | A command-line tool for bulk cloning GitHub repositories with advanced features and a clean terminal UI. | Python |
+| [**Git Cloth**](https://github.com/ilovecode17/GitCloth) | A command-line tool for bulk cloning GitHub repositories with advanced features and a clean terminal UI. | Node.js |
 
 --- GitHub in Numbers ---
 
